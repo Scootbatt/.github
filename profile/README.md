@@ -1,4 +1,4 @@
-# 🛴 Scootbatt – The Ultimate Companion for Electric Scooter Riders 🚀
+# 🛴 Scootbatt – The Ultimate Companion for Electric Scooter Riders
 
 Welcome to the official **Scootbatt** GitHub organization! This is the home of our open-source initiatives and community discussions for **Scootbatt**, the must-have Android app for electric scooter enthusiasts.
 
